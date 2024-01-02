@@ -7,9 +7,9 @@ body {
   background: linear-gradient(to right,orange,red);
 }
 
-h1 {
+.title {
   color: whitesmoke;
-  align-content: center;
+  text-align: center;
 }
 
 .calculator-grid {
